@@ -17,5 +17,5 @@
 4.作業四　text analysis <br>
 
 5.期末作業 Kaggle-Mercari Price Suggestion Challenge<br>
-     `*`分析PPT https://drive.google.com/open?id=1pEzvZ5BczVwTBLbq0N21etcVUlAOcpe5
+`*`分析PPT https://drive.google.com/open?id=1pEzvZ5BczVwTBLbq0N21etcVUlAOcpe5
      `*`https://www.kaggle.com/c/mercari-price-suggestion-challenge
