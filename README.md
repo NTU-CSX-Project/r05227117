@@ -18,4 +18,4 @@
 
 5.期末project Kaggle-Mercari Price Suggestion Challenge<br>
 `*`分析PPT https://docs.google.com/presentation/d/e/2PACX-1vS9BnHjVPmnWGRadrdFYzjZvI8iuWJBdMYtEttDGiXEmLPVuJAQVvbfTCRQrbpPFqdXDg_hTx6MMF8k/pub?start=false&loop=false&delayms=3000<br>
-     `*`https://www.kaggle.com/c/mercari-price-suggestion-challenge<br>
+     `*`比賽網站https://www.kaggle.com/c/mercari-price-suggestion-challenge<br>
