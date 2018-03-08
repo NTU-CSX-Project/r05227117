@@ -20,3 +20,7 @@
 `*`分析PPT https://docs.google.com/presentation/d/e/2PACX-1vS9BnHjVPmnWGRadrdFYzjZvI8iuWJBdMYtEttDGiXEmLPVuJAQVvbfTCRQrbpPFqdXDg_hTx6MMF8k/pub?start=false&loop=false&delayms=3000<br>
 `*`比賽網站https://www.kaggle.com/c/mercari-price-suggestion-challenge<br>
 
+
+106-2進階軟體開發專題
+
+1.week1
